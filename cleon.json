@@ -1,0 +1,6 @@
+{
+    "$schema": "https://cleon-ui.vercel.app",
+    "ui": "resources/js/components/ui",
+    "project": "Laravel",
+    "tsx": true
+}
